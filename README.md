@@ -1,5 +1,9 @@
 # DATA-STRUCTURES-AND-ALGORITHMS
 21CSC201J DATA STRUCTURES AND ALGORITHMS by PRANSHU VERMA (RA2211003010742)
+
+# INTRODUCTION
+This repository consist of all the DSA experiments done in lab classes.
+
 # LIST OF EXPERIMENTS
 01. Implementation of Structures
 02. Implementation of Structures using Pointers
