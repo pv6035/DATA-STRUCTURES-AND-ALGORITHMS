@@ -4,7 +4,7 @@
 #define MAX_SIZE 100
 
 struct Stack {
-    int arr[MAX_SIZE + 1];
+    int arr[MAX_SIZE];
     int top;
 };
 
@@ -20,7 +20,7 @@ int isEmpty(struct Stack *stack) {
 
 // Function to check if the stack is full
 int isFull(struct Stack *stack) {
-    return (stack->top == MAX_SIZE);
+    return (stack->top == MAX_SIZE - 1);
 }
 
 // Function to push an element onto the stack
